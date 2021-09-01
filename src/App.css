@@ -1,0 +1,22 @@
+
+.table { 
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;  
+  vertical-align: middle !important;
+  border-color: #d7e2e9 !important;
+  background-color: rgb(238, 235, 222) !important;
+  text-align: center;
+  cursor: pointer !important;  
+}
+
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;  
+  background-color: rgb(192, 45, 26);
+  color: #fff;
+}
